@@ -1,13 +1,9 @@
 {
   "files": {
-    "main.css": "/npm%20i%20@emotion/react/static/css/main.fa4fc9c0.css",
-    "main.js": "/npm%20i%20@emotion/react/static/js/main.14d1e6f8.js",
-    "index.html": "/npm%20i%20@emotion/react/index.html",
-    "main.fa4fc9c0.css.map": "/npm%20i%20@emotion/react/static/css/main.fa4fc9c0.css.map",
-    "main.14d1e6f8.js.map": "/npm%20i%20@emotion/react/static/js/main.14d1e6f8.js.map"
+    "main.js": "/npm%20i%20@emotion/react/static/js/main.31d6cfe0.js",
+    "index.html": "/npm%20i%20@emotion/react/index.html"
   },
   "entrypoints": [
-    "static/css/main.fa4fc9c0.css",
-    "static/js/main.14d1e6f8.js"
+    "static/js/main.31d6cfe0.js"
   ]
 }
