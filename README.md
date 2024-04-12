@@ -2,6 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 # Doing homework while studying in bootcamp @GoIT on Fullstack developer course
+
 ## Project Specifications:
 React module(states/hooks/derived states/events/props/forms)
 ## Languages and Tools:
