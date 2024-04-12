@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "npm i @emotion/react",
+  "homepage": "https://kuciapakrystian.github.io/goit-react-hw-03-phonebook/",
   "dependencies": {
     "@ant-design/icons": "^5.3.6",
     "@emotion/react": "^11.11.4",
